@@ -1,0 +1,29 @@
+nome: "Joao" 
+idade: 20
+
+# Comentario
+objeto: 
+  versao: 2
+  arquivo: "sla"
+versao: 2
+versao_completa: 3.4
+
+string_sem_aspas: joao marcos
+texto: "teste"
+
+is_null: ~ #valo nulo
+teste_null: null #outro valor nulo
+
+verdadeiro: True #ou On
+falso: Off #ou False
+
+primeiro_array: [1, 2, 3]
+segundo_array: 
+  - 1
+  - 2
+  - 3
+
+um_objeto: {a: 1, b: 2}
+outro_objeto: 
+  a: 1
+  c: 2
